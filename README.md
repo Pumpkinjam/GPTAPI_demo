@@ -1,3 +1,8 @@
+## env needs...
+> VITE_OPENAI_API_KEY={key}
+> 
+> VITE_GCloud_API_KEY={key}
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
